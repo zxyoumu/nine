@@ -1,0 +1,54 @@
+@charset "utf-8";
+header{
+	background:#22F5F5;
+	padding:2px;
+}
+nav{
+	float:left;
+	width:100%;
+	height: 50px;
+	background-color: #19B4B7;
+	line-height: 50px;
+}
+section{
+	float:left;
+	width: 70%;
+	height:300px;
+	background-color:#22F5F5;
+}
+article{
+	float:left;
+	width: 560px;
+	margin-left: 0 0 0 30px;
+	padding:20px 0;
+}
+aside{
+	float:right;
+	width:30%;
+	height:300px;
+	background-color:#00FD6B;
+}
+aside a{
+	display: block;
+	height: 30px;
+	margin-left:50px;
+	padding: 20px;
+}
+
+footer{
+	clear: both;
+	background:#9EC4B8;
+	text-align: center;
+	padding: 15px;
+	height: 1%;
+}
+footer ul li{
+	display: inline;
+	margin:0 25px;
+}
+a{
+	text-decoration: none;
+	color: #FFF;
+}
+/* CSS Document */
+
